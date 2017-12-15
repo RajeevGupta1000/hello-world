@@ -1,2 +1,9 @@
 # hello-world
-My Hello World
+
+
+Hello,
+
+This is my first gitHub edit.
+I hope to get used to this gitHub... :D 
+
+
