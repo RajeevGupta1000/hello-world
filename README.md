@@ -3,7 +3,6 @@
 
 Hello,
 
-This is my first gitHub edit.
-I hope to get used to this gitHub... :D 
+This is my first gitHub edit.... :D 
 
 
